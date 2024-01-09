@@ -1,0 +1,23 @@
+# Data Analysis com Python
+
+Este código analisa um conjunto de dados fictício, exibindo informações básicas, estatísticas descritivas e criando visualizações simples, como um gráfico de barras para idade e um gráfico de dispersão para salário e pontuação.
+
+## Pré-requisitos
+
+Instale as seguintes bibliotecas antes de executar o script:
+
+```bash
+pip install pandas matplotlib (windows)
+pip3 install pandas matplotlib (macOS)
+
+```
+## Como usar
+1 - Clone o repositório para o seu ambiente local:
+```git clone https://github.com/sergioglesio/data-analysis.git
+cd data-analysis
+```
+
+2 - Execute o script no terminal:
+```
+python3 data-analysis.py
+```
